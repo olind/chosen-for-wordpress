@@ -1,9 +1,9 @@
 # Chosen for WordPress
-Contributors: thenbrent
+Contributors: thenbrent & olind
 Tags: jquery, chosen, selectbox
 Requires at least: 3.1  
 Tested up to: 4.0
-Stable tag: 0.3
+Stable tag: 0.3-1 OL
 
 This plugin implements the [Chosen jQuery Plugin](http://harvesthq.github.com/chosen/) for WordPress.
 
