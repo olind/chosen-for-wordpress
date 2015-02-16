@@ -1,1 +1,3 @@
-jQuery(document).ready(function($) { $('select:not(#mo-fonts)').chosen();});
+jQuery(document).ready(function($){
+    $('select').chosen();
+}); 

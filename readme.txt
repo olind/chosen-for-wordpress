@@ -37,6 +37,9 @@ If you need to force the Chosen script & styles to load on a page, simply includ
 
 == Changelog ==
 
+= 0.3-1 OL =
+I made a quick fix to get this plugin to run. It now loads on all pages and all select HTML elements. I also upgraded the Chosen framework to latest version.
+
 = 0.3 =
 Update to latest version of Chosen JavaScript library
 
